@@ -1,4 +1,5 @@
 scikit-learn
+statsmodels
 pandas
 numpy
 tabpy
